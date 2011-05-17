@@ -1,0 +1,5 @@
+Right now, lda is the only project. It contains main.clj, and if you
+load that it has a simple example of running the program. Which just
+consists of making a random corpus, and then resampling the topics for
+each word. And yes, I do realize that using a random corpus for this
+defeats the whole point of LDA. 
